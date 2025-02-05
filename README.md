@@ -30,7 +30,7 @@ Antes de rodar o projeto localmente, você precisará ter as seguintes ferrament
 
 A aplicação foi hospedada no **Vercel** e pode ser acessada através do seguinte link:
 
-[Link do Projeto](https://petshop-dev.vercel.app)
+[Link do Projeto](https://pet-shop-dev-sepia.vercel.app/)
 
 ### 1. Clone o repositório
 
