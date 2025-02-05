@@ -31,5 +31,5 @@ Antes de rodar o projeto localmente, você precisará ter as seguintes ferrament
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/petshop-web.git
+git clone https://github.com/lazaaro01/PetShopDev
 cd petshop-web
