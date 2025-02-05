@@ -32,4 +32,4 @@ Antes de rodar o projeto localmente, você precisará ter as seguintes ferrament
 
 ```bash
 git clone https://github.com/lazaaro01/PetShopDev
-cd petshop-web
+cd petshop-dev
