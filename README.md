@@ -26,7 +26,11 @@ Antes de rodar o projeto localmente, você precisará ter as seguintes ferrament
 - [Node.js](https://nodejs.org/) (versão 14 ou superior)
 - [Yarn](https://yarnpkg.com/) ou [npm](https://www.npmjs.com/)
 
-## Instalação
+## Deploy
+
+A aplicação foi hospedada no **Vercel** e pode ser acessada através do seguinte link:
+
+[Link do Projeto](https://petshop-dev.vercel.app)
 
 ### 1. Clone o repositório
 
